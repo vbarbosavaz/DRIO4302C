@@ -1,25 +1,24 @@
--i https://pypi.org/simple
-asn1crypto==0.24.0
-attrs==18.2.0
-automat==0.7.0
-cffi==1.11.5
+-i https://pypi.org/simple/
+attrs==19.3.0
+automat==0.8.0
+cffi==1.13.1
 click==7.0
 constantly==15.1.0
-cryptography==2.5
-cssselect==1.0.3
+cryptography==2.8
+cssselect==1.1.0
 elasticsearch==6.3.1
 flask-pymongo==2.2.0
 flask==1.0.2
-hyperlink==18.0.0
+hyperlink==19.0.0
 idna==2.8
 incremental==17.5.0
 itsdangerous==1.1.0
-jinja2==2.10
-lxml==4.3.0
-markupsafe==1.1.0
-parsel==1.5.1
-pyasn1-modules==0.2.3
-pyasn1==0.4.5
+jinja2==2.10.3
+lxml==4.4.1 ; python_version != '3.4'
+markupsafe==1.1.1
+parsel==1.5.2
+pyasn1-modules==0.2.7
+pyasn1==0.4.7
 pycparser==2.19
 pydispatcher==2.0.5
 pyhamcrest==1.9.0
@@ -29,8 +28,8 @@ queuelib==1.5.0
 scrapy==1.5.2
 service-identity==18.1.0
 six==1.12.0
-twisted==18.9.0
-urllib3==1.24.1
-w3lib==1.20.0
-werkzeug==0.14.1
+twisted==19.7.0
+urllib3==1.25.6
+w3lib==1.21.0
+werkzeug==0.15.3
 zope.interface==4.6.0
