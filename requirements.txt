@@ -15,7 +15,7 @@ idna==2.8
 incremental==17.5.0
 itsdangerous==1.1.0
 jinja2==2.10
-lxml==4.3.0
+lxml==4.9.1
 markupsafe==1.1.0
 parsel==1.5.1
 pyasn1-modules==0.2.3
